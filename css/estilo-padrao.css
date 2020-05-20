@@ -117,26 +117,14 @@ footer#pageFooter {
 	box-sizing: border-box;
 }
 
-.col16  {
-	width:16.66%;
-	float: left;
-	padding: 20px;
-	box-sizing: border-box;
-}
-
-.col12 {
-	width:50%;
-	float: left;
-	padding: 20px;
-	box-sizing: border-box;
-}
-
 .col13 {
 	width:33%;
 	float: left;
 	padding: 20px;
 	box-sizing: border-box;
 }
+
+/**
 
 .col14  {
 	width:25%;
@@ -151,6 +139,15 @@ footer#pageFooter {
 	padding: 20px;
 	box-sizing: border-box;
 }
+
+.col16  {
+	width:16.66%;
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+**/
 
 .clear{clear:both;}
 
