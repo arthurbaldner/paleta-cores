@@ -1,0 +1,151 @@
+/** HTML5 e CSS3 - Paleta de Cores 1*/
+/**
+    Cores: 
+        Gainsboro            : #D8DBE2
+          Silver Metalic     : #ADAFB6
+          Davy's grey        : #56585F
+        Light steel blue     : #A9BCD0
+          Beau blue          : #BED0DE
+          Independence       : #444D61
+        Cadet blue           : #58A4B0
+          Powder blue        : #97DBDF
+          Midnight green     : #1A3C46
+        Charcoal             : #373F51
+          Space cadet        : #212639
+          Black coral        : #4A5262
+        Eerie black          : #1B1B1E
+          Jet                : #323235
+          Platinum           : #E6E8E9
+ **/
+
+
+
+ /** Gainsboro **/
+.cor1{
+  color: #D8DBE2;
+}
+
+.bgCor1 {
+  background-color: #D8DBE2;
+}
+
+.cor1a{
+ color: #ADAFB6;
+}
+
+.bgCor1a {
+ background-color: #ADAFB6;
+}
+
+.cor1b{
+ color: #56585F;
+}
+
+.bgCor1b {
+ background-color: #56585F;
+}
+
+
+
+/** Light steel blue **/
+.cor2 {
+ color: #A9BCD0;
+}
+
+.bgCor2 {
+ background-color: #A9BCD0;
+}
+
+.cor2a{
+ color: #BED0DE; 
+}
+
+.bgCor2a {
+ background-color: #BED0DE;
+}
+
+.cor2b{
+ color: #444D61;
+}
+
+.bgCor2b {
+ background-color: #444D61;
+}
+
+/** Cadet blue **/
+.cor3 {
+ color: #58A4B0;
+}
+
+.bgCor3 {
+ background-color: #58A4B0;
+}
+
+.cor3a {
+ color: #97DBDF;
+}
+
+.bgCor3a {
+ background-color: #97DBDF;
+}
+
+.cor3b {
+ color: #1A3C46;
+}
+
+.bgCor3b {
+ background-color: #1A3C46;
+}
+
+
+/** Charcoal **/
+.cor4 {
+ color: #373F51;
+}
+
+.bgCor4 {
+ background-color: #373F51;
+}
+
+.cor4a {
+ color: #212639;
+}
+
+.bgCor4a {
+ background-color: #212639;
+}
+
+
+.cor4b {
+ color: #4A5262;
+}
+
+.bgCor4b {
+ background-color: #4A5262;
+}
+
+
+/** Eerie black **/
+.cor5 {
+ color: #1B1B1E;
+}
+
+.bgCor5 {
+ background-color: #1B1B1E;
+}
+
+.cor5a {
+ color: #323235;
+}
+
+.bgCor5a {
+ background-color: #323235;
+}
+
+.cor5b {
+ color: #E6E8E9;
+}
+
+.bgCor5b {
+ background-color: #E6E8E9;
+}
